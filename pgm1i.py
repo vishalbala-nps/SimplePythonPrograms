@@ -1,4 +1,4 @@
-#Orints the value of the series: 
+#Prints the value of the series: 
 # 1 - x + x^2 - x^3 + x^4 -........x^n
 
 x = int(input("Enter x: "))
