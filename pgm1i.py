@@ -14,7 +14,7 @@ for i in range(0,n+1):
         total += powered
         sign = "-"
 print(total)
-
+#2nd method to solve the same problem
 add = 0
 sub = 0
 for i in range(0,n+1,2):
