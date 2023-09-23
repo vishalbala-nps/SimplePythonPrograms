@@ -1,4 +1,18 @@
-#Menu Driven program to print 2 patterns
+"""
+Menu Driven program to print 2 patterns
+Pattern 1:
+      *
+   *  *  *
+*  *  *  *  *
+   *  *  *
+      *
+Pattern 2:
+1 2 3 4 5
+  1 2 3 4
+    1 2 3
+      1 2
+        1
+"""
 while True:
     opt = int(input("Menu:\n1. Pattern 1\n2. Pattern 2\nEnter an option: "))
     if opt == 1:
